@@ -103,15 +103,20 @@ namespace Batch1_DET_2022
         //}
 
 
-        public static void Main()
-        {
-            List<Animal> sound = new List<Animal>();
-            sound.Add(new Dog());
-            sound.Add(new Cat());
+        //        public static void Main()
+        //        {
+        //            List<Animal> sound = new List<Animal>();
+        //            sound.Add(new Dog());
+        //            sound.Add(new Cat());
 
-            foreach (Animal a in sound)
-                Console.WriteLine(a.Sound());
+        //            foreach (Animal a in sound)
+        //                Console.WriteLine(a.Sound());
 
-        }
+        //        }
+        //    }
+        //}
+
+
     }
 }
+
